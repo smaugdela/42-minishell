@@ -46,4 +46,5 @@ You can also use the -c option in order to bypass the prompt and get minishell's
 ```
 Enjoy!
 
-# Examples
+# Example
+![My Image](misc/minishell_example.png)

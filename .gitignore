@@ -1,0 +1,6 @@
+obj/
+*.o
+minishell
+libft.a
+.vscode
+minishell_test*

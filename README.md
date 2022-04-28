@@ -50,7 +50,7 @@ Enjoy!
 ![My Image](misc/minishell_example.png)
 
 # Special Thanks
-I'd like to thank every single one of my fellow coworkers who greatly supported me, starting with my teammate [chduong](https://github.com/chduong42):
+I'd like to thank every single one of my fellow coworkers who greatly supported me, starting with my teammate [chduong](https://github.com/chduong42) (sorry if I forgot some...):
  - [ajealcat](https://github.com/ajealcat)
  - [fahima8897](https://github.com/fahima8897)
  - [vietdu91](https://github.com/vietdu91)

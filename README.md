@@ -1,5 +1,5 @@
 # 42-minishell Summary
-42's project that aims to recreate a little shell from scratch, in C, and reproducing the behavior of bash.
+42's project that aims at recreating a little shell from scratch, in C, reproducing the behavior of bash.
 
 # Mandatory Instructions
 We add to implement the following features:
@@ -27,12 +27,12 @@ We add to implement the following features:
  - Use only the allowed functions.
 
 # How to Use
-Clone the repository in the location of your choice, then compile using make command:
+Clone the repository in the location of your choice, go inside it, then compile using make command:
 ```
 cd 42-minishell
 make
 ```
-Launch minishell! You can use the command make leak to launch it using valgrind to detect memory issues like leaks.
+Launch minishell! You can use the command make leak to launch it using valgrind to detect memory issues like leaks (except those coming from readline function, which could not be fixed).
 ```
 ./minishell
 ```
@@ -40,4 +40,10 @@ or
 ```
 make leak
 ```
+You can also use the -c option in order to bypass the prompt and get minishell's result directly:
+```
+./minishell -c '<your_command_here>'
+```
 Enjoy!
+
+# Examples

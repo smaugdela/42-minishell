@@ -61,3 +61,5 @@ I'd like to thank every single one of my fellow coworkers who greatly supported 
  - [ethan0905](https://github.com/ethan0905)
  - [mderome](https://github.com/mderome)
  - [JonathanDUFOUR](https://github.com/JonathanDUFOUR)
+
+May the Force be with them, always.
